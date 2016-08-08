@@ -10,7 +10,7 @@ namespace nhatlv_lab6
         static void Main(string[] args)
         {
             //nhatlvph04026
-            // Nhat dowwnload
+            // Nhat dowwnload lan 2
         }
     }
 }
